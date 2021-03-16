@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 
 Hey everyone, this is Soumyaa. 
-Though passionate about a lot of things, I despise phone calls a lot :/
+Though passionate about a lot of things, I despise phone calls a lot 
